@@ -14,7 +14,7 @@
 
 -Bachelor of Engineering in Software Engineering - CINEC</br>
 -Higher Diploma in Software Engineering - NIBM</br>
--Diploma in Software Engineering - NIBM</br>
+-Diploma in Software Engineering - NIBM(Reading)</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
