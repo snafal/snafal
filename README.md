@@ -12,9 +12,9 @@
 
   <h3 align="left">Education</h3>
 
--Bachelor of Engineering in Software Engineering - CINEC
--Higher Diploma in Software Engineering - NIBM
--Diploma in Software Engineering - NIBM
+-Bachelor of Engineering in Software Engineering - CINEC</br>
+-Higher Diploma in Software Engineering - NIBM</br>
+-Diploma in Software Engineering - NIBM</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
