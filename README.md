@@ -4,11 +4,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Lahiru suwahas prabashvara godagamage</h1>
-<h3 align="center">A passionate frontend developer from Sri lanaka</h3>
+<h3 align="center">am a passionate software engineer with a strong academic background and a demonstrated ability to design, develop, and implement high-quality software solutions. I have experience in a variety of programming languages and technologies, and I am always eager to learn new skills.
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snafal&label=Profile%20views&color=0e75b6&style=flat" alt="snafal" /> </p>
 
-- 🌱 I’m currently learning **AI,ML**
+  <h3 align="left">Education</h3>
+
+-Bachelor of Engineering in Software Engineering - CINEC
+-Higher Diploma in Software Engineering - NIBM
+-Diploma in Software Engineering - NIBM
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
